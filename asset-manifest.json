@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://niranjan-17.github.io/csb-1hlqu/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://niranjan-17.github.io/csb-1hlqu/static/js/main.78eee535.chunk.js",
+    "main.js.map": "https://niranjan-17.github.io/csb-1hlqu/static/js/main.78eee535.chunk.js.map",
+    "runtime-main.js": "https://niranjan-17.github.io/csb-1hlqu/static/js/runtime-main.121be3c9.js",
+    "runtime-main.js.map": "https://niranjan-17.github.io/csb-1hlqu/static/js/runtime-main.121be3c9.js.map",
+    "static/js/2.6018c1b0.chunk.js": "https://niranjan-17.github.io/csb-1hlqu/static/js/2.6018c1b0.chunk.js",
+    "static/js/2.6018c1b0.chunk.js.map": "https://niranjan-17.github.io/csb-1hlqu/static/js/2.6018c1b0.chunk.js.map",
+    "index.html": "https://niranjan-17.github.io/csb-1hlqu/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://niranjan-17.github.io/csb-1hlqu/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6018c1b0.chunk.js.LICENSE.txt": "https://niranjan-17.github.io/csb-1hlqu/static/js/2.6018c1b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.121be3c9.js",
+    "static/js/2.6018c1b0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.78eee535.chunk.js"
+  ]
+}
